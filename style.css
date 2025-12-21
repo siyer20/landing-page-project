@@ -139,8 +139,16 @@ a{
 
     display: flex;
     justify-content: space-around;
+
+}
+.call-to-action{
+    font-size: 24px;
+    font-weight: bold;
 }
 
+.banner-subtext{
+    color: #e5e7eb;
+}
 
 .footer{
     display: flex;
