@@ -138,14 +138,9 @@ a{
     border-radius: 15px;
 
     display: flex;
-    flex-direction: column;
-    
+    justify-content: space-around;
 }
 
-.call-to-action{
-    font-size: 18px;
-    font-weight: bold;
-}
 
 .footer{
     display: flex;
