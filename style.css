@@ -128,7 +128,7 @@ a{
     font-weight: bold;
 }
 
-.call-to-action{
+.banner{
     margin: 100px 200px;
 
     background-color: #3882f6;
@@ -136,7 +136,15 @@ a{
     padding: 20px;
     box-sizing: border-box;
     border-radius: 15px;
+
+    display: flex;
+    flex-direction: column;
     
+}
+
+.call-to-action{
+    font-size: 18px;
+    font-weight: bold;
 }
 
 .footer{
