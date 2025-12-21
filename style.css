@@ -23,8 +23,21 @@ body{
     font-weight: 900;
     flex-wrap: wrap;
     justify-content: center;
+    gap: 10px;
 }
 
+.intro button{
+    background: #3882f6;
+    border: 1px solid royalblue;
+    color: white;
+    cursor: pointer;
+    padding: 8px 35px;
+    border-radius: 8px;
+    max-width: fit-content;
+
+    font-size: 18px;
+    font-weight: 600;
+}
 .subtext,
 .header-links{
     font-size: 18px;
