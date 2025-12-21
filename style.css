@@ -128,6 +128,17 @@ a{
     font-weight: bold;
 }
 
+.call-to-action{
+    margin: 100px 200px;
+
+    background-color: #3882f6;
+    color: white;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    
+}
+
 .footer{
     display: flex;
     background-color: #1f2937;
