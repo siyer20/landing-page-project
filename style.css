@@ -150,6 +150,20 @@ a{
     color: #e5e7eb;
 }
 
+.banner button{
+    background: #3882f6;
+    border: 2px solid white;
+    color: white;
+    cursor: pointer;
+    padding: 10px 35px;
+    border-radius: 8px;
+    max-width: fit-content;
+    max-height: fit-content;
+
+    font-size: 18px;
+    font-weight: 600;
+}
+
 .footer{
     display: flex;
     background-color: #1f2937;
